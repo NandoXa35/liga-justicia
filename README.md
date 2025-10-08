@@ -3,11 +3,6 @@
 Este proyecto se encarga de manejar los planes de la liga de la justicia
 
 
-## Notas
-Pueden hacer lo que quieran...
+## Cambios
 
-## Actualizado desde github
-
-Mensaje editado desde github!!!
-
-Agregamos una configuracion global en nuestro enotrno local
+Estos cambios son nuevos 
