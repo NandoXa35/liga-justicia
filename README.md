@@ -9,3 +9,5 @@ Pueden hacer lo que quieran...
 ## Actualizado desde github
 
 Mensaje editado desde github!!!
+
+Agregamos una configuracion global en nuestro enotrno local
